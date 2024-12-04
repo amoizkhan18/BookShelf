@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "bookshelff",
+    "slug": "snack-a58082f7-42fd-485a-9fbf-213dbe14df5e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.amk_18.snacka58082f742fd485a9fbf213dbe14df5e"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "00266f3a-2494-4478-bb29-fc00db77efb9"
+      }
+    }
+  }
+}
